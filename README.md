@@ -47,7 +47,7 @@ phishing-website-detection/
 ├── phishing_dataset_dashboard.xlsx
 ├── Phishing_Detection_Analysis.ipynb
 │
-├── screenshots/
+├──  
 │       ├── screenshot_01.png
 │       ├── screenshot_02.png
 │       ├── screenshot_03.png
@@ -133,23 +133,23 @@ The application then extracts the website features and performs the security ana
 
 #### 1. Legitimate Website Detection
 
-![Legitimate Website Detection](screenshots/screenshot_01.png)
+![Legitimate Website Detection](screenshot_01.png)
 
 #### 2. Lookalike Domain Detection
 
-![Lookalike Domain Detection](screenshots/screenshot_02.png)
+![Lookalike Domain Detection](screenshot_02.png)
 
 #### 3. Legitimate Website Detection - Netflix
 
-![Netflix Legitimate Website Detection](screenshots/screenshot_03.png)
+![Netflix Legitimate Website Detection](screenshot_03.png)
 
 #### 4. Phishing Website Detection
 
-![Phishing Website Detection](screenshots/screenshot_04.png)
+![Phishing Website Detection](screenshot_04.png)
 
 #### 5. IP Address / Numeric Hostname Detection
 
-![IP Address Detection](screenshots/screenshot_05.png)
+![IP Address Detection](screenshot_05.png)
 
 ## 📊 Data Analytics Dashboard
 
@@ -169,7 +169,7 @@ The dashboard contains visualizations for:
 
 ### Dashboard Screenshot
 
-![Phishing Website Detection Dashboard](screenshots/dashboard.png)
+![Phishing Website Detection Dashboard](dashboard.png)
 
 ## 📸 Project Screenshots
 
@@ -177,27 +177,27 @@ The repository includes screenshots showing different test cases and analysis re
 
 ### Google - Legitimate Website
 
-![Google Legitimate Result](screenshots/screenshot_01.png)
+![Google Legitimate Result](screenshot_01.png)
 
 ### Lookalike Domain Example
 
-![Lookalike Domain Result](screenshots/screenshot_02.png)
+![Lookalike Domain Result](screenshot_02.png)
 
 ### Netflix - Legitimate Website
 
-![Netflix Legitimate Result](screenshots/screenshot_03.png)
+![Netflix Legitimate Result](screenshot_03.png)
 
 ### Suspicious Domain - Phishing Result
 
-![Phishing Result](screenshots/screenshot_04.png)
+![Phishing Result]( screenshot_04.png)
 
 ### IP Address - Phishing Result
 
-![IP Address Phishing Result](screenshots/screenshot_05.png)
+![IP Address Phishing Result](screenshot_05.png)
 
 ### Dataset Analysis Dashboard
 
-![Dataset Analysis Dashboard](screenshots/dashboard.png)
+![Dataset Analysis Dashboard](dashboard.png)
 
 ## 📓 Jupyter Notebook
 
@@ -346,6 +346,6 @@ This project is intended for **educational and research purposes**. Do not use t
 | Dataset                     | `phishing.csv`                      |
 | Machine learning notebook   | `Phishing_Detection_Analysis.ipynb` |
 | Excel dashboard             | `phishing_dataset_dashboard.xlsx`   |
-| Application screenshots     | `dashboard/screenshots/`            |
+| Application screenshots     | `dashboard/`            |
 | Dependencies                | `requirements.txt`                  |
 | Documentation               | `README.md`                         |
